@@ -116,15 +116,6 @@
 [here](https://docs.djangoproject.com/en/4.0/)
 
 -----------
-
-### Tutorial video 
-
-Django tutorial<br/> 
-[here](https://www.youtube.com/watch?v=rHux0gMZ3Eg) : youtube <br/>
-[here](https://djangobook.com/django-tutorial-for-beginners/) : djangobook
-
-
--------
 ### How to set up React
 ## How to Start React 
 
